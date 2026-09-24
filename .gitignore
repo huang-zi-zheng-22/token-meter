@@ -1,0 +1,5 @@
+.build/
+dist/
+.claude/
+.DS_Store
+.impeccable/
